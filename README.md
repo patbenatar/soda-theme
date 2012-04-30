@@ -16,13 +16,7 @@ If you are a git user, the best way to install the theme and keep up to date is 
 
 Go to your Sublime Text 2 `Packages` directory and clone the theme repository using the command below:
 
-    git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"
-
-### Download Manually
-
-* Download the files using the GitHub .zip download option
-* Unzip the files and rename the folder to `Theme - Soda`
-* Copy the folder to your Sublime Text 2 `Packages` directory
+    git clone https://github.com/patbenatar/soda-theme/ "Theme - Soda"
 
 ## Activating the theme
 
@@ -43,7 +37,7 @@ To configure Sublime Text 2 to use the theme:
 
 The Soda Light screenshot uses a modified version of Espresso Tutti Colori and the Soda Dark screenshot uses a modified version of Monokai.
 
-If you'd like to use the syntax highlighting schemes shown in the screenshots: 
+If you'd like to use the syntax highlighting schemes shown in the screenshots:
 
 * Download [colour-schemes.zip](http://buymeasoda.github.com/soda-theme/extras/colour-schemes.zip)
 * Unzip and place the extracted `tmtheme` files in the Sublime Text 2 `Packages/User` folder
